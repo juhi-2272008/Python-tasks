@@ -11,4 +11,4 @@ This repository contain Task 1 and Task 2 Python scripts
 - **Task2.py** -> A Pyhton program that:
 - Takes the user's first and last name as input
 - Concatenates them into a Full name
-- Prints a personaized greetings message using the Full name 
+- Prints a personalized greetings message using the Full name 
